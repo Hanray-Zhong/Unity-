@@ -1,0 +1,7 @@
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\bin\Debug\@的用法.exe.config
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\bin\Debug\@的用法.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\bin\Debug\@的用法.pdb
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\obj\Debug\@的用法.csprojResolveAssemblyReference.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\obj\Debug\@的用法.csproj.CoreCompileInputs.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\obj\Debug\@的用法.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\@的用法\@的用法\obj\Debug\@的用法.pdb

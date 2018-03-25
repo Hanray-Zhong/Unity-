@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "G:/\u5E72\u5927\u4E8B/\u59D0\u59B9\u65E5\u8BB0/Sisters (2)/Assets/Resources/UI/GameUI/gameUI.unity"
+  isLoaded: 1
+  isActive: 1

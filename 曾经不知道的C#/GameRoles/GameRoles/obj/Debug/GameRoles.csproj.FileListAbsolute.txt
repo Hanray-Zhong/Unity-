@@ -1,0 +1,7 @@
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\bin\Debug\GameRoles.exe.config
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\bin\Debug\GameRoles.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\bin\Debug\GameRoles.pdb
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\obj\Debug\GameRoles.csprojResolveAssemblyReference.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\obj\Debug\GameRoles.csproj.CoreCompileInputs.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\obj\Debug\GameRoles.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\GameRoles\GameRoles\obj\Debug\GameRoles.pdb

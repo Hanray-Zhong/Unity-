@@ -1,0 +1,7 @@
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\bin\Debug\用户管理系统——MVC.exe.config
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\bin\Debug\用户管理系统——MVC.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\bin\Debug\用户管理系统——MVC.pdb
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\obj\Debug\用户管理系统——MVC.csprojResolveAssemblyReference.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\obj\Debug\用户管理系统——MVC.csproj.CoreCompileInputs.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\obj\Debug\用户管理系统——MVC.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\用户管理系统——MVC\用户管理系统——MVC\obj\Debug\用户管理系统——MVC.pdb

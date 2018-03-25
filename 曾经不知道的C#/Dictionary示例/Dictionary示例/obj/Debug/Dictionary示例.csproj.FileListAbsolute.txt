@@ -1,0 +1,7 @@
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\bin\Debug\Dictionary示例.exe.config
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\bin\Debug\Dictionary示例.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\bin\Debug\Dictionary示例.pdb
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\obj\Debug\Dictionary示例.csprojResolveAssemblyReference.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\obj\Debug\Dictionary示例.csproj.CoreCompileInputs.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\obj\Debug\Dictionary示例.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\Dictionary示例\Dictionary示例\obj\Debug\Dictionary示例.pdb

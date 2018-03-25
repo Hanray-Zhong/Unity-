@@ -1,0 +1,7 @@
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\bin\Debug\处理字符串.exe.config
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\bin\Debug\处理字符串.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\bin\Debug\处理字符串.pdb
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\obj\Debug\处理字符串.csprojResolveAssemblyReference.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\obj\Debug\处理字符串.csproj.CoreCompileInputs.cache
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\obj\Debug\处理字符串.exe
+G:\学习\计算机\Unity\Unity学习\曾经不知道的C#\处理字符串\处理字符串\obj\Debug\处理字符串.pdb
