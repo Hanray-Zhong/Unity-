@@ -1,0 +1,11 @@
+#需要过滤的文件夹目录
+shader forge/.vs/
+shader forge/Library/
+shader forge/UnityPackageManager/
+shader forge/Assets/Cinemachine/
+shader forge/Assets/ShaderForge/
+shader forge/shader forge资料
+
+#需要过滤的文件
+*.csproj
+*.sln
